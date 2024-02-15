@@ -10,3 +10,4 @@ def solution(stringData):
     return answer 
 
 print(solution("qwer"))
+
