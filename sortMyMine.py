@@ -1,6 +1,6 @@
 def solution(string ,n):
     answer = []
-    answer = string.sorted(string , key = lambda x:(x[n],x))
+    answer = sorted(string , key = lambda x:(x[n],x))
     print(answer)
     return answer
 
