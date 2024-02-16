@@ -9,3 +9,4 @@ def solution(s):
     return answer 
 
 solution("qwer")
+solution("abcde")
