@@ -12,7 +12,6 @@ def solution(s):
         answer= True 
     else :
         answer = False 
-    print(answer) 
     return answer 
 
 # solution("()()")
