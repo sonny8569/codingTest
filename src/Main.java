@@ -22,7 +22,12 @@ public class Main {
 //        decimal();
 //        findReverseDecimal();
 //        checkAnswer();
-        checkCount();
+//        checkCount();
+        grid();
+    }
+
+    private static void grid(){
+        Grid.gridAnswer();
     }
     private static void checkCount(){
         CountNum.solution();
