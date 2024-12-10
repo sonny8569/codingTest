@@ -24,7 +24,11 @@ public class Main {
 //        checkAnswer();
 //        checkCount();
 //        grid();
-        peak();
+//        peak();
+        leader();
+    }
+    private static void leader(){
+        TemporaryLeader.electionTemporaryLeader();
     }
     private static void peak(){
         Peak.findPeak();
