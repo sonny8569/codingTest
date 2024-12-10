@@ -23,7 +23,11 @@ public class Main {
 //        findReverseDecimal();
 //        checkAnswer();
 //        checkCount();
-        grid();
+//        grid();
+        peak();
+    }
+    private static void peak(){
+        Peak.findPeak();
     }
 
     private static void grid(){
